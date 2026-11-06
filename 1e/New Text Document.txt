@@ -1,0 +1,25 @@
+<!--  1e-b) Function Expression (Definition)
+Note: Function definition, this is commonly called a Function Expression 
+because the function is assigned to a variable.-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Function Expression</title>
+    <script>
+	const greet = function () 
+         {
+    		console.log("Hello Students from Function Expression");
+         };
+   </script>
+</head>
+<body>
+   <h1>Function Expression</h1>
+Pls right click and see inspect (or) press F12
+
+<script>
+  greet();
+</script>
+ 
+</body>
+</html>
